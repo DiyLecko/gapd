@@ -11,6 +11,8 @@ I wanted to automatic "go get" for others. So make this.
    1. `~/path/gapd init` then gapd make `gapd.json` file in directory.
    2. `~/path/gapd install github.com/DiyLecko/goRecycleBuffer` then gapd install the package and write in `gapd.json`.
    3. `~/path/gapd install` then gapd install all package in `gapd.json`.
+4. Now you just serve only `gapd` and `gapd.json` file for serving all packages!
+   
 
 If you want to use more easier, then add gapd to your bash for using like `gapd init`.
 
